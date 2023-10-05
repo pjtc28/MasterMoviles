@@ -1,0 +1,30 @@
+<resources>
+    <string name="title_activity_film_list">FilmListActivity</string>
+    <string name="title_activity_film_data">FilmDataActivity</string>
+    <string name="title_activity_film_edit">FilmEditActivity</string>
+
+    <!--Actividad ABOUT-->
+    <string name="app_name">Filmoteca</string>
+    <string name="aut1">Creado por Pedro Torres</string>
+    <string name="btn1">Ir al Sitio Web</string>
+    <string name="btn2">Obtener Soporte</string>
+    <string name="btn3">Volver</string>
+
+    <!--Actividad FILM DATA-->
+    <string name="nombrePeliMain">Nombre: </string>
+    <string name="btnVolver">Volver al principal</string>
+    <string name="btnEditar">Editar pelicula</string>
+    <string name="btnVPR">Ver pelicula relacionada</string>
+
+    <!--Actividad FILM LIST (La Principal)-->
+    <string name="btnA">Ver pelicula A</string>
+    <string name="btnB">Ver pelicula B</string>
+    <string name="btnAcerca">Acerca de</string>
+
+
+    <!--Actividad EDITAR PELICULA-->
+    <string name="textEdit">Editando pelicula</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnCancelar">Cancelar</string>
+
+</resources>

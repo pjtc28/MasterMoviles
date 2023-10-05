@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+    <string name="aut1">Created by Pedro Torres</string>
+    <string name="btn1">Go to the website</string>
+    <string name="btn2">Support</string>
+    <string name="btn3">Go back</string>
+    <string name="funcion">Unimplemented functionality</string>
+</resources>
